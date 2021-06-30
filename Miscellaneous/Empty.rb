@@ -1,2 +1,2 @@
-puts [*1..10].empty?
+puts [*0..9].empty?
 puts [].empty?
